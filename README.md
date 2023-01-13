@@ -31,12 +31,3 @@ My goal is to exceed your expectations, therefore we will not settle for just an
 
 Sincerely
 
-### 🔥 My Github Stats :
-
-<div id="github_stats" align="center">
-
-
-
-[![Sudip's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=bluespider71&theme=redical&hide_border=true)](#!)
-
-</div>
